@@ -1,7 +1,12 @@
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<!-- logo 图片 -->
+<div align="center" style="background-color: black;">
+  <img width="30%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+</div>
+
+
 
 <div align="center" style="background-color: black;">
+</div>
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
