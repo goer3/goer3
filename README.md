@@ -10,28 +10,18 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://ezops.cn/"><img src="https://img.shields.io/badge/个人站点-EZOPS-blue" /></a>&emsp;
-    <a href="https://www.cnblogs.com/Dy1an/"><img src="https://img.shields.io/badge/博客园-Dy1an-c32136" /></a>&emsp;
+    <a href="https://www.cnblogs.com/Dy1an/"><img src="https://img.shields.io/badge/个人博客-Dy1an-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=goer3" alt="访客统计" />
   </div>
 </div>
 
-#  🙋 Hello
-
- 
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center" >
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-E34F26?logo=kubernetes&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
