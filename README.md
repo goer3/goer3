@@ -20,10 +20,10 @@
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-E34F26?logo=kubernetes&logoColor=fff&style=flat)
-![Docker Badge](https://img.shields.io/badge/Docker-1572B6?logo=docker3&logoColor=fff&style=flat)
-![Prometheus Badge](https://img.shields.io/badge/Prometheus-F7DF1E?logo=prometheus&logoColor=000&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=fff&style=flat)
+![Prometheus Badge](https://img.shields.io/badge/Prometheus-E34F26?logo=prometheus&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Golang Badge](https://img.shields.io/badge/Golang-092E20?logo=golang&logoColor=fff&style=flat)
+![Golang Badge](https://img.shields.io/badge/Golang-092E20?logo=go&logoColor=fff&style=flat)
 
 
 <!-- programming tool icon 编程工具图标 -->
