@@ -1,3 +1,6 @@
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+
 <div align="center" style="background-color: black;">
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -301,8 +304,7 @@ Mac                      38 hrs 40 mins      ███████████�
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+
 
 <!-- first form 第一个表格 -->
 <table>
