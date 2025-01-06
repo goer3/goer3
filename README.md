@@ -1,19 +1,22 @@
-<!-- logo 图片 -->
-<div align="center" style="background-color: black;">
-  <img width="30%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-</div>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h1>
 
+<p align="center"><br/>
+  <a>
+    <img src="https://img.shields.io/badge/-682374468-1f883d?style=flat-square&logo=tencentqq&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/-ezops.cn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezops.cn@gmail.com">
+  </a>
+</p>
 
+<h3 align="center">A cloud native devops engineer</h3>
 
-<!-- <div align="center" style="background-color: black;">
-</div>
-  <div align="center">
-    <a href="https://ezops.cn/"><img src="https://img.shields.io/badge/个人站点-EZOPS-blue" /></a>&emsp;
-    <a href="https://www.cnblogs.com/Dy1an/"><img src="https://img.shields.io/badge/个人博客-Dy1an-c32136" /></a>&emsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=goer3" alt="访客统计" />
-  </div>
-</div> -->
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<!-- <div align="center" >
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-</div> -->
+- 🔭 Working about **Golang and React.js**
+- 📫 How to contact me **Email: ezops.cn@gmail.com**
+- 💬 How to chat with me **WeChat: ezopscn**
+- ⚡ How to join us **QQ Group: 682374468**
