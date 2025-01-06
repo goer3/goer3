@@ -17,6 +17,6 @@
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 Working about **Golang and React.js**
-- 📫 How to contact me **Email: ezops.cn@gmail.com**
+- 📫 How to contact me **Email: 1214966109a@qq.com**
 - 💬 How to chat with me **WeChat: ezopscn**
 - ⚡ How to join us **QQ Group: 682374468**
