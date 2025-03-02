@@ -2,7 +2,7 @@
 
 <p align="center"><br/>
   <a>
-    <img src="https://img.shields.io/badge/-682374468-1f883d?style=flat-square&logo=tencentqq&logoColor=white">
+    <img src="https://img.shields.io/badge/-682374468-1f883d?style=flat-square&logo=Tencentqq&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white">
@@ -16,7 +16,7 @@
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 **Work: Kubernetes, Golang and React.js**
+- 🔭 **Kubernetes, Golang and React.js**
 - 📫 **Eemail: 1214966109@qq.com**
 - 💬 **WeChat: ezopscn**
 - ⚡ **QQ Group: 682374468**
