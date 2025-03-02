@@ -16,7 +16,7 @@
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Working about **Golang and React.js**
-- 📫 How to contact me **Email: 1214966109@qq.com**
-- 💬 How to chat with me **WeChat: ezopscn**
-- ⚡ How to join us **QQ Group: 682374468**
+- 🔭 **Work: Kubernetes, Golang and React.js**
+- 📫 **Eemail: 1214966109@qq.com**
+- 💬 **WeChat: ezopscn**
+- ⚡ **QQ Group: 682374468**
