@@ -2,7 +2,7 @@
 
 <p align="center"><br/>
   <a>
-    <img src="https://img.shields.io/badge/-682374468-1f883d?style=flat-square&logo=Tencentqq&logoColor=white">
+    <img src="https://img.shields.io/badge/-682374468-1f883d?style=flat-square&logo=qq&logoColor=white">
   </a>
   <a>
     <img src="https://img.shields.io/badge/-ezopscn-blue?style=flat-square&logo=Wechat&logoColor=white">
