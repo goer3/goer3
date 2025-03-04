@@ -12,11 +12,11 @@
   </a>
 </p>
 
-<h3 align="center">A cloud native devops engineer</h3>
+<h3 align="center">云原生运维开发工程师r</h3>
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 **Kubernetes, Golang and React.js**
-- 📫 **Eemail: 1214966109@qq.com**
-- 💬 **WeChat: ezopscn**
-- ⚡ **QQ Group: 682374468**
+- 🔭 工作范围：Kubernetes, Golang and React
+- 📫 邮箱地址：1214966109@qq.com
+- 💬 微信账号：ezopscn
+- ⚡ QQ 讨论群：682374468
