@@ -14,7 +14,3 @@
 
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 工作范围：Kubernetes, Golang and React
-- 📫 邮箱地址：1214966109@qq.com
-- 💬 微信账号：ezopscn
-- ⚡ QQ 讨论群：682374468
