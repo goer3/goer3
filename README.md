@@ -12,5 +12,4 @@
   </a>
 </p>
 
-<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
