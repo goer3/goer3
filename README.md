@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<h3 align="center">云原生运维开发工程师r</h3>
-
 <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 工作范围：Kubernetes, Golang and React
