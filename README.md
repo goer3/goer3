@@ -3,9 +3,6 @@
   <!-- just img 图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
   
-  <!-- Quotes 名人名言 -->
-  <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
