@@ -21,8 +21,8 @@
   <div>
     <a href="https://ezops.cn"><img src="https://img.shields.io/badge/邮箱地址-ezops.cn@gmail.com-blue" /></a>&emsp;
     <a href="https://ezops.cn"><img src="https://img.shields.io/badge/微信公众号-大龄运维工程师-c32136" /></a>&emsp;
-    <a href="https://ezops.cn"><img src="https://img.shields.io/badge/微信-ezopscn-8c36db" /></a>&emsp;
     <a href="https://ezops.cn"><img src="https://img.shields.io/badge/QQ讨论群-682374468-07c160" /></a>&emsp;
+    <a href="https://ezops.cn"><img src="https://img.shields.io/badge/微信-ezopscn-8c36db" /></a>&emsp;
     <a href="https://ezops.cn"><img src="https://img.shields.io/badge/QQ-1214966109-ff69b4" /></a>&emsp;  
   </div>
 
